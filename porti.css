@@ -1,0 +1,38 @@
+.navebar{
+    margim-bottom: 40px; 
+}
+
+
+.card{
+margin-bottom: 20px;
+
+}
+
+.one{
+    padding-right: 20px;
+    
+}
+
+.mega{
+    padding-right: 20px;
+    
+}
+
+@media (max-width:510px) {
+    .card{
+    width: 90%;
+    height: auto;
+}
+}
+@media (max-width:425px){
+.duvida{
+    text-align:center;
+}
+}
+
+
+@media (max-width:425px){
+    .achamos{
+        text-align:center;
+    }
+    }
